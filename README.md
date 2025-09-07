@@ -9,5 +9,6 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Sol Invictus: Confessio Ultima Constantini Magni, Praefatus a Publio Cornelio Tacito](docs/poem-2016.mp3)
 - [Healthy Bodybuilding](docs/poem-2015.mp3)
 
