@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Your First Programming Project: The Global Education Freedom Dashboard](docs/poem-2018.mp3)
 - [The Radio Address](docs/poem-2017.mp3)
 - [Sol Invictus: Confessio Ultima Constantini Magni, Praefatus a Publio Cornelio Tacito](docs/poem-2016.mp3)
 - [Healthy Bodybuilding](docs/poem-2015.mp3)
