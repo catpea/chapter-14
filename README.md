@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning Is Meant To Be Fun](docs/poem-2021.mp3)
 - [Home Cooked Genius](docs/poem-2020.mp3)
 - [Fixing High School](docs/poem-2019.mp3)
 - [Your First Programming Project: The Global Education Freedom Dashboard](docs/poem-2018.mp3)
