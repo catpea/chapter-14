@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Gradual Blindness: Why Adults Allow Educational Destruction and What Children Must Do Now (Raw/Unprocessed)](docs/poem-2022.mp3)
 - [Learning Is Meant To Be Fun](docs/poem-2021.mp3)
 - [Home Cooked Genius](docs/poem-2020.mp3)
 - [Fixing High School](docs/poem-2019.mp3)
