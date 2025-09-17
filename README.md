@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Lacrimae Sapientiae: Philosophia Damnata, Veritas Suffocata, Lux Interdicta (Tears of Wisdom)](docs/poem-2025.mp3)
 - [Shine](docs/poem-2024.mp3)
 - [How To Cure A Case Of The Mondays](docs/poem-2023.mp3)
 - [The Gradual Blindness: Why Adults Allow Educational Destruction and What Children Must Do Now](docs/poem-2022.mp3)
