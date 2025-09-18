@@ -9,6 +9,8 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [When They Burned The Wise](docs/poem-2027.mp3)
+- [A Powerful Prompt; Or, Notes From My Artificial Intelligence On Softening Some Of The Tears Of Wisdom](docs/poem-2026.mp3)
 - [Lacrimae Sapientiae: Philosophia Damnata, Veritas Suffocata, Lux Interdicta (Tears of Wisdom)](docs/poem-2025.mp3)
 - [Shine](docs/poem-2024.mp3)
 - [How To Cure A Case Of The Mondays](docs/poem-2023.mp3)
