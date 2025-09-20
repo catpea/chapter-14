@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Dallas Pitch](docs/poem-2029.mp3)
 - [Witch and Witchcraft: Malleus Maleficarum And The Continuing Attack On Women](docs/poem-2028.mp3)
 - [When They Burned The Wise](docs/poem-2027.mp3)
 - [A Powerful Prompt; Or, Notes From My Artificial Intelligence On Softening Some Of The Tears Of Wisdom](docs/poem-2026.mp3)
