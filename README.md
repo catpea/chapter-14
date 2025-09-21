@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Mother Slayer Of Kings](docs/poem-2031.mp3)
 - [Good and Evil: The Architecture of Human Ascension](docs/poem-2030.mp3)
 - [The Dallas Pitch](docs/poem-2029.mp3)
 - [Witch and Witchcraft: Malleus Maleficarum And The Continuing Attack On Women](docs/poem-2028.mp3)
