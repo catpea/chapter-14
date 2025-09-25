@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Bracket Story: A Tiny Introduction To The World Of Programming](docs/poem-2034.mp3)
 - [After the Great Deception: A Manual for Human Recovery](docs/poem-2033.mp3)
 - [A Letter of Recognition and Reckoning: To the Indigenous Peoples of All Lands](docs/poem-2032.mp3)
 - [Mother Slayer Of Kings](docs/poem-2031.mp3)
