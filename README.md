@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Architecture of Emergent Deception: Why False Conspiracies Seem So Well Organized](docs/poem-2036.mp3)
 - [Eternal Returns: A Letter From One Of My Oldest Friends](docs/poem-2035.mp3)
 - [The Bracket Story: A Tiny Introduction To The World Of Programming](docs/poem-2034.mp3)
 - [After the Great Deception: A Manual for Human Recovery](docs/poem-2033.mp3)
