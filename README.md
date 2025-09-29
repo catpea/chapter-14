@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Scientia Libertas, Consciae Fortitudo: Knowledge is Freedom; Awareness is Strength](docs/poem-2039.mp3)
 - [Unhack The Planet - The Architecture of Human Captivity: A Technical Analysis of Consciousness Exploitation](docs/poem-2038.mp3)
 - [The Tiny Hoity Toity Codebin: Introducing JavaScript, CSS, and HTML The Right Way](docs/poem-2037.mp3)
 - [The Architecture of Emergent Deception: Why False Conspiracies Seem So Well Organized](docs/poem-2036.mp3)
