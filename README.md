@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Distributed Denial of Education (DDoE): A Critical Infrastructure Analysis](docs/poem-2042.mp3)
 - [Post-Mortem Analysis of Humanity's Greatest Security Breach](docs/poem-2041.mp3)
 - [Your Genius Is Not Optional](docs/poem-2040.mp3)
 - [Scientia Libertas, Consciae Fortitudo: Knowledge is Freedom; Awareness is Strength](docs/poem-2039.mp3)
