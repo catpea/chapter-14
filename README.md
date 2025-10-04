@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Saeculum Obscurum et De Dignitate Hominis (The Dark Ages and the Dignity of Man)](docs/poem-2043.mp3)
 - [Distributed Denial of Education (DDoE): A Critical Infrastructure Analysis](docs/poem-2042.mp3)
 - [Post-Mortem Analysis of Humanity's Greatest Security Breach](docs/poem-2041.mp3)
 - [Your Genius Is Not Optional](docs/poem-2040.mp3)
