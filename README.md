@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Cult Of Stupid](docs/poem-2045.mp3)
 - [Spooky Programming](docs/poem-2044.mp3)
 - [Saeculum Obscurum et De Dignitate Hominis (The Dark Ages and the Dignity of Man)](docs/poem-2043.mp3)
 - [Distributed Denial of Education (DDoE): A Critical Infrastructure Analysis](docs/poem-2042.mp3)
