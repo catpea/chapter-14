@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Enchanted Key](docs/poem-2047.mp3)
 - [The High Art of Being Human](docs/poem-2046.mp3)
 - [The Cult Of Stupid](docs/poem-2045.mp3)
 - [Spooky Programming](docs/poem-2044.mp3)
