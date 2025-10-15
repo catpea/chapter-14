@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Quarks Will Dance In Patterns Your Code Will Predict But Never Become](docs/poem-2054.mp3)
 - [About Your School: Genius Is Not Rare](docs/poem-2053.mp3)
 - [Your Thunder Must Precede You](docs/poem-2052.mp3)
 - [Your Future Is Here! Don't Jinx It](docs/poem-2051.mp3)
