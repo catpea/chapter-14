@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learn JavaScript And Get Scared Of What You Can Do With Artificial Intelligence](docs/poem-2055.mp3)
 - [The Quarks Will Dance In Patterns Your Code Will Predict But Never Become](docs/poem-2054.mp3)
 - [About Your School: Genius Is Not Rare](docs/poem-2053.mp3)
 - [Your Thunder Must Precede You](docs/poem-2052.mp3)
