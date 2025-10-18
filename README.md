@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [AI Can Teach For Real Now; Are You Still Pretending To Learn In Return For Good Grades?](docs/poem-2057.mp3)
 - [Poking Around AI](docs/poem-2056.mp3)
 - [Learn JavaScript And Get Scared Of What You Can Do With Artificial Intelligence](docs/poem-2055.mp3)
 - [The Quarks Will Dance In Patterns Your Code Will Predict But Never Become](docs/poem-2054.mp3)
