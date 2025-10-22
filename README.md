@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Squirrel Programming 2025](docs/poem-2061.mp3)
 - [Unimagined](docs/poem-2060.mp3)
 - [Ennobled](docs/poem-2059.mp3)
 - [Unbound](docs/poem-2058.mp3)
