@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Once You Are Programming JavaScript: Choose Your Starting Platform](docs/poem-2063.mp3)
 - [Learn For Real, Learn Programming](docs/poem-2062.mp3)
 - [Squirrel Programming 2025](docs/poem-2061.mp3)
 - [Unimagined](docs/poem-2060.mp3)
