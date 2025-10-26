@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming And Med School](docs/poem-2066.mp3)
 - [Really Weird Programming And The Modulo Of Doom](docs/poem-2065.mp3)
 - [You Become As Flexible As Your Dance Moves](docs/poem-2064.mp3)
 - [Once You Are Programming JavaScript: Choose Your Starting Platform](docs/poem-2063.mp3)
