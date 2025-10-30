@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [New World: The World Has Not Changed, It Is New](docs/poem-2069.mp3)
 - [Convergent Cognitive Evolution in Felis catus: A Paradigm Shift in Understanding Distributed Intelligence Emergence](docs/poem-2068.mp3)
 - [And So It Goes](docs/poem-2067.mp3)
 - [Programming And Med School](docs/poem-2066.mp3)
