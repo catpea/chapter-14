@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Cautio Criminalis: The Shadows Know](docs/poem-2071.mp3)
 - [Spooky JavaScript](docs/poem-2070.mp3)
 - [New World: The World Has Not Changed, It Is New](docs/poem-2069.mp3)
 - [Convergent Cognitive Evolution in Felis catus: A Paradigm Shift in Understanding Distributed Intelligence Emergence](docs/poem-2068.mp3)
