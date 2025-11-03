@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Periwinkle Plumpkin](docs/poem-2073.mp3)
 - [THE COVENANT: A Charter for Wisdom in the Age of Clear Sight (AI Prompt)](docs/poem-2072.mp3)
 - [Cautio Criminalis: The Shadows Know](docs/poem-2071.mp3)
 - [Spooky JavaScript](docs/poem-2070.mp3)
