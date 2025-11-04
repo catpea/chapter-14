@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [There Is No Such Thing As Genius, That’s The Normal You](docs/poem-2074.mp3)
 - [Periwinkle Plumpkin](docs/poem-2073.mp3)
 - [THE COVENANT: A Charter for Wisdom in the Age of Clear Sight (AI Prompt)](docs/poem-2072.mp3)
 - [Cautio Criminalis: The Shadows Know](docs/poem-2071.mp3)
