@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Event Aggregation](docs/poem-2076.mp3)
 - [Mama Going Back to High School](docs/poem-2075.mp3)
 - [There Is No Such Thing As Genius, That’s The Normal You](docs/poem-2074.mp3)
 - [Periwinkle Plumpkin](docs/poem-2073.mp3)
