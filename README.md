@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [When AI Takes Your Job, You Take AI And Become Your Own Boss](docs/poem-2084.mp3)
 - [A Bit More Each Time: A Little Bodybuilding Trick For Ladies](docs/poem-2083.mp3)
 - [If You Are Going To Go To The Gym, Go All The Way](docs/poem-2082.mp3)
 - [Don’t Worry Your World Does Not End Until Your Culture Is Sideloaded And Education Is Ineffective](docs/poem-2081.mp3)
