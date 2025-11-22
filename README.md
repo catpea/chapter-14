@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learn, Evolve, Persist, Share](docs/poem-2092.mp3)
 - [The Brand New World](docs/poem-2091.mp3)
 - [AI Can Help You Build And Sell Tiny Web Applications](docs/poem-2090.mp3)
 - [The Confessor's Shadow, Würzburg, 1634](docs/poem-2089.mp3)
