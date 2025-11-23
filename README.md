@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [My Peewee Pea Peanut Pistachio Piquant Recipe](docs/poem-2093.mp3)
 - [Learn, Evolve, Persist, Share](docs/poem-2092.mp3)
 - [The Brand New World](docs/poem-2091.mp3)
 - [AI Can Help You Build And Sell Tiny Web Applications](docs/poem-2090.mp3)
