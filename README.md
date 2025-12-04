@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Cycling Dumbbells - A Rapid Bodybuilding Technique For Girls](docs/poem-2104.mp3)
 - [Bodybuilding Day One: Lift Light And Long, Heavy Weights Can Only Stop You](docs/poem-2103.mp3)
 - [Rejuvenation, Bodybuilding And Music; Or, No Beat, No Trance, No Chance](docs/poem-2102.mp3)
 - [Adaptive Biomechanics: Bodybuilding For Fierce Ladies](docs/poem-2101.mp3)
