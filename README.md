@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Institutum Malignum: Non Daemon Mundum Fallit, Sed Auctoritas](docs/poem-2108.mp3)
 - [Bodybuilding And Energy; Or, How To Keep Going At The Gym](docs/poem-2107.mp3)
 - [Bodybuilding And Focus Management](docs/poem-2106.mp3)
 - [How To Begin Working Out; Or, Bodybuilding Is So Easy Fat Babies Do It](docs/poem-2105.mp3)
