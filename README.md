@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Is The Modern Gym Workout The Exact Opposite Of What It Should Be?](docs/poem-2111.mp3)
 - [The Cognitive Sovereignty Amendment: A Declaration of Mental Liberty for the Children of Tomorrow](docs/poem-2110.mp3)
 - [The World That Is Possible](docs/poem-2109.mp3)
 - [Institutum Malignum: Non Daemon Mundum Fallit, Sed Auctoritas](docs/poem-2108.mp3)
