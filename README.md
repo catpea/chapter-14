@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Thinker They Made Into a Flower](docs/poem-2122.mp3)
 - [The Return Of The Age Of Warriors](docs/poem-2121.mp3)
 - [Remembering The Saints, And Never Forgetting The Names Of Enemies](docs/poem-2120.mp3)
 - [Just One More Thing, On Becoming a LAN-First Android Infrastructure Engineer, Starting Today](docs/poem-2119.mp3)
