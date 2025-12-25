@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Thinking Machines](docs/poem-2125.mp3)
 - [The Fire](docs/poem-2124.mp3)
 - [This Christmas Give Your Children The Gift They Need: Start Packing](docs/poem-2123.mp3)
 - [The Thinker They Made Into a Flower](docs/poem-2122.mp3)
