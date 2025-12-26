@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Spiral Path 𐇐 𐇛 𐇜 𐇑 𐇡](docs/poem-2126.mp3)
 - [The Thinking Machines](docs/poem-2125.mp3)
 - [The Fire](docs/poem-2124.mp3)
 - [This Christmas Give Your Children The Gift They Need: Start Packing](docs/poem-2123.mp3)
