@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Teach Me JavaScript; Or, From Local AI To Great Being](docs/poem-2127.mp3)
 - [The Spiral Path 𐇐 𐇛 𐇜 𐇑 𐇡](docs/poem-2126.mp3)
 - [The Thinking Machines](docs/poem-2125.mp3)
 - [The Fire](docs/poem-2124.mp3)
