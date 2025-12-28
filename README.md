@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A New Year's Address to the World - On Greatness, and the Crime of Smallness](docs/poem-2129.mp3)
 - [Fear, Mystery, And Comedy (Fast AI Testing / Failure Example)](docs/poem-2128.mp3)
 - [Teach Me JavaScript; Or, From Local AI To Great Being](docs/poem-2127.mp3)
 - [The Spiral Path 𐇐 𐇛 𐇜 𐇑 𐇡](docs/poem-2126.mp3)
